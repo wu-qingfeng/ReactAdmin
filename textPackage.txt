@@ -1,0 +1,7 @@
+    // rich-text-editor.jsx   所需用带的组件
+    npm install react-draft-wysiwyg draftjs-to-html -S
+
+
+
+
+
